@@ -22,10 +22,10 @@ export default async function RootLayout({
   params,
 }: {
   children: React.ReactNode;
-  params: Promise<{ lang: "en" | "cs" | "de" }>;
+  params: Promise<{ lang: string }>;
 }) {
   const { lang } = await params;
-  const dist = await getDictionary(lang);
+  const dist = await getDictionary(lang as "en" | "cs" | "de");
 
   return (
     <html suppressHydrationWarning lang={lang}>

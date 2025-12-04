@@ -7,11 +7,15 @@ const dictionaries = {
 };
 
 export const getDictionary = async (locale: "en" | "cs" | "de") => {
-    const dictionaryLoader = dictionaries[locale];
+  if (!['en', 'cs', 'de'].includes(locale)) {
+    return dictionaries.en();
+  }
 
-    if (typeof dictionaryLoader !== "function") {
-        throw new Error(`No dictionary loader for locale ${locale}`);
-    }
+  const dictionaryLoader = dictionaries[locale];
 
-    return dictionaryLoader()
+  if (typeof dictionaryLoader !== "function") {
+    throw new Error(`No dictionary loader for locale ${locale}`);
+  }
+
+  return dictionaryLoader()
 }
