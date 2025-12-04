@@ -3,6 +3,10 @@ import { Pool } from "pg";
 import { Question } from "@/lib/Question";
 import { Order } from "@/lib/Order";
 
+/**
+ * Database class
+ * Handles database connections and queries
+ */
 export class Database {
   private static instance: Database;
   private readonly pool: Pool;

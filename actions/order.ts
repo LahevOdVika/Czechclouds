@@ -3,6 +3,11 @@
 import { Order } from "@/lib/Order";
 import { Database } from "@/lib/db";
 
+/**
+ * Submit an order to the database
+ * @param data Order data
+ * @returns 1 if successful, 0 if failed
+ */
 export async function submitOrder(data: Record<string, any>): Promise<number> {
   const order: Order = {
     fullname: data.fullname,

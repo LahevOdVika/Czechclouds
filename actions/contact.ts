@@ -4,8 +4,8 @@ import { Database } from "@/lib/db";
 import { Question } from "@/lib/Question";
 
 /**
- * Zpracuje data formuláře a uloží je do databáze.
- * @param formData - Data odeslaná z Client Component.
+ * Submit a contact form to the database
+ * @param formData - Data submitted from the client component.
  */
 export async function submitContactFormAction(formData: FormData) {
   const data = Object.fromEntries(formData) as Record<string, string>;
