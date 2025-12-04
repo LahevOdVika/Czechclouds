@@ -1,0 +1,202 @@
+{
+  "hero": {
+    "title": "Ihre Cloud, Ihre Regeln.",
+    "subtitle": "Sicheres, skalierbares und vollständig verwaltetes Nextcloud-Hosting. Übernehmen Sie die Kontrolle über Ihre Daten.",
+    "plans": "Tarife anzeigen",
+    "sales": "Vertrieb kontaktieren"
+  },
+  "plan": {
+    "title": "Unsere Server-Tarife",
+    "subtitle": "Wählen Sie den Tarif, der am besten zu Ihnen passt.",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "save": "(Sparen Sie bis zu 17 %)",
+    "moreTitle": "Benötigen Sie noch mehr Benutzer?",
+    "moreText": "Kontaktieren Sie uns, und wir finden eine Lösung."
+  },
+  "security": {
+    "title": "Ihre Daten, sicher und privat",
+    "subtitle": "Ihre Privatsphäre hat bei uns oberste Priorität. Unsere Infrastruktur ist darauf ausgelegt, Ihre Daten sicher zu halten.",
+    "firstTitle": "Ende-zu-Ende-Verschlüsselung",
+    "first": "Mit Nextcloud können Sie Ihre Daten direkt auf Ihrem Gerät verschlüsseln, sodass niemand sonst darauf zugreifen kann.",
+    "secondTitle": "Datensouveränität",
+    "second": "Ihre Daten werden innerhalb der EU in zertifizierten Rechenzentren gespeichert. Sie haben die volle Kontrolle darüber, wo sich Ihre Dateien befinden.",
+    "thirdTitle": "Serversicherheit",
+    "third": "Wir implementieren die neuesten Sicherheitsstandards, einschließlich Firewalls, DDoS-Schutz und regelmäßiger Sicherheitsaudits."
+  },
+  "about": {
+    "pill": "Kollaborationsplattform",
+    "title": "Was ist Nextcloud?",
+    "firstP": "Nextcloud ist eine Open-Source-Plattform für Dateihosting und Zusammenarbeit, die Ihnen die volle Kontrolle über Ihre Daten gibt. Es ist wie Ihr eigener privater Google Drive oder Dropbox, aber mit viel mehr Funktionen.",
+    "secondP": "Synchronisieren Sie Dateien, verwalten Sie Kalender, führen Sie Videoanrufe und bearbeiten Sie Dokumente in Echtzeit – alles auf einer einzigen, sicheren Plattform."
+  },
+  "performance": {
+    "title": "Für blitzschnelle Leistung gebaut",
+    "subtitle": "Unsere Infrastruktur ist für maximale Leistung optimiert, um sicherzustellen, dass Ihr Nextcloud reibungslos und ohne Verzögerungen läuft.",
+    "firstTitle": "Pfeilschneller NVMe-Speicher",
+    "first": "Alle Tarife laufen auf NVMe-SSDs der Enterprise-Klasse, die ein blitzschnelles Laden von Dateien und eine sofortige Reaktionsfähigkeit der Apps gewährleisten.",
+    "secondTitle": "Leistungsstarke CPUs",
+    "second": "Wir verwenden die neuesten Generationen von Serverprozessoren, die anspruchsvolle Vorgänge und mehrere Benutzer problemlos bewältigen.",
+    "thirdTitle": "10-Gbit/s-Konnektivität",
+    "third": "Unsere Server sind an ein Hochgeschwindigkeitsnetzwerk angeschlossen, was schnelle Uploads und Downloads von überall auf der Welt gewährleistet."
+  },
+  "features": {
+    "title": "Alles, was Sie brauchen, in einem Paket",
+    "subtitle": "Jeder Tarif beinhaltet die volle Leistung der Nextcloud Hub-Plattform.",
+    "firstTitle": "Nextcloud Files",
+    "first": "Synchronisieren und teilen Sie Ihre Dokumente, Fotos und andere Dateien. Greifen Sie jederzeit von jedem Gerät darauf zu.",
+    "secondTitle": "Nextcloud Talk",
+    "second": "Sichere Videoanrufe, Chat und Bildschirmfreigabe direkt in Ihrer Cloud – ohne externe Apps.",
+    "thirdTitle": "Nextcloud Groupware",
+    "third": "Verwalten Sie Ihre Kalender, Kontakte und E-Mails an einem Ort. Vollständig integriert für maximale Produktivität.",
+    "fourthTitle": "Online-Office",
+    "fourth": "Bearbeiten Sie Textdokumente, Tabellen und Präsentationen direkt in Ihrem Browser. Voll kompatibel mit Microsoft Office-Formaten.",
+    "more": "und vieles mehr..."
+  },
+  "faq": [
+    {
+      "title": "Was ist der Hauptvorteil Ihres Dienstes im Vergleich zu großen Anbietern?",
+      "content": "Unser Hauptvorteil ist die Datensouveränität und ein persönlicher Ansatz. Ihre Daten werden in sicheren Rechenzentren innerhalb der EU gespeichert und Sie haben die volle Kontrolle darüber. Wir sind kein Großkonzern, daher können wir mehr Flexibilität und personalisierten Support bieten."
+    },
+    {
+      "title": "Kann ich den Dienst zuerst testen?",
+      "content": "Ja, wir bieten eine 14-tägige Geld-zurück-Garantie für alle unsere Tarife. Wenn Sie mit unserem Service nicht zufrieden sind, erstatten wir Ihnen die Zahlung – ohne Wenn und Aber."
+    },
+    {
+      "title": "Wie funktioniert die Datenmigration von einem anderen Anbieter?",
+      "content": "Unser Team hilft Ihnen gerne bei der Migration Ihrer Daten. In den meisten Standardfällen übernehmen wir die Migration für Sie. Kontaktieren Sie einfach unseren Support und wir klären die Details."
+    },
+    {
+      "title": "Ist es möglich, einen maßgeschneiderten Tarif zu erhalten?",
+      "content": "Absolut. Sollte keiner unserer Standardtarife Ihren Bedürfnissen entsprechen, erstellen wir Ihnen gerne ein individuelles, auf Sie zugeschnittenes Angebot. Füllen Sie einfach das Anfrageformular auf der Seite 'Bestellen' aus."
+    }
+  ],
+  "cta": {
+    "title": "Sind Sie bereit, die Kontrolle über Ihre Daten zu übernehmen?",
+    "subtitle": "Wählen Sie den Tarif, der am besten zu Ihnen passt, und starten Sie noch heute. Mit unserer 14-tägigen Geld-zurück-Garantie verlieren Sie nichts.",
+    "button": "Tarife anzeigen"
+  },
+  "plans": [
+    {
+      "id": "basic",
+      "name": "Basic Cloud",
+      "title": "Starter",
+      "recommendation": "Bis zu 10 Benutzer",
+      "priceMonthly": 20,
+      "priceYearly": 200,
+      "features": [
+        "Mindestens 250 GB SSD-Speicher",
+        "Schnelle Nextcloud-Erfahrung",
+        "Erweiterbarer Speicher",
+        "Tägliche Backups",
+        "24-Stunden-Support"
+      ],
+      "nonFeatures": [
+        "Prioritäts-Support",
+        "Domain im Preis inbegriffen"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "pro",
+      "name": "Pro Cloud",
+      "title": "Am beliebtesten",
+      "recommendation": "Bis zu 50 Benutzer",
+      "priceMonthly": 30,
+      "priceYearly": 300,
+      "features": [
+        "Mindestens 500 GB SSD-Speicher",
+        "Schnelle Nextcloud-Erfahrung",
+        "Erweiterbarer Speicher",
+        "Tägliche Backups",
+        "24-Stunden-Support",
+        "Prioritäts-Support",
+        "Domain im Preis inbegriffen"
+      ],
+      "nonFeatures": [],
+      "isPopular": true
+    }
+  ],
+  "order": {
+    "button": "Bestellung aufgeben",
+    "additionalStorageDesc": "1GB für €0.1",
+    "additionalStoragePrice": 0.1,
+    "additionalStorage": "Zusätzlicher Speicherplatz (GB)",
+    "title": "Bestellung Abschließen",
+    "subtitle": "Passen Sie Ihren Plan an und starten Sie in wenigen Minuten.",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "month": "Monat",
+    "year": "Jahr",
+    "total": "Gesamt",
+    "fullName": "Name",
+    "email": "E-Mail-Adresse",
+    "tooltip": "Basierend auf unserer Schätzung. Die Leistung kann schlechter sein, wenn Sie diese Empfehlung überschreiten.",
+    "recommended": "Empfohlen",
+    "configure": "Ihren Plan Konfigurieren",
+    "userAdd": "Hier fügen Sie Ihre Benutzer hinzu und legen deren Namen fest. Sie können einstellen, wie viele Sie möchten.",
+    "userLimit": "Beachten Sie, dass der von Ihnen gewählte Plan nur eine bestimmte Anzahl von Benutzern verarbeiten kann. Sie können jederzeit später neue Benutzer erstellen.",
+    "error": "Mindestens ein Benutzer ist erforderlich!",
+    "domain": "Domain",
+    "myOwn": "Ich habe meine eigene Domain.",
+    "needNewDomain": "Ich brauche eine neue Domain",
+    "findNew": "Neue Domain finden",
+    "domainIncluded": "Eine neue Domain ist im Pro-Plan enthalten. Dies ist ein Platzhalter für die VEDOS API-Integration.",
+    "check": "Prüfen",
+    "monthlyAgree": {
+      "firstPart": "Mit Klick auf „Bestellung Senden“ gehen Sie ein Abonnement mit einer ",
+      "feeOf": "monatlichen Gebühr von",
+      "secondPart": "Sie verpflichten sich zur wiederkehrenden Zahlung und die Zahlungsinformationen werden an Ihre E-Mail-Adresse gesendet."
+    },
+    "yearlyAgree": {
+      "firstPart": "Mit Klick auf „Bestellung Senden“ gehen Sie ein Abonnement mit einer ",
+      "feeOf": "jährlichen Gebühr von",
+      "secondPart": "Sie verpflichten sich zur wiederkehrenden Zahlung und die Zahlungsinformationen werden an Ihre E-Mail-Adresse gesendet."
+    }
+  },
+  "contact": {
+    "title": "Kontaktformular",
+    "fullName": {
+      "label": "Vollständiger Name",
+      "placeholder": "Vollständiger Name"
+    },
+    "email": {
+      "label": "E-Mail",
+      "placeholder": "E-Mail"
+    },
+    "orderNumber": {
+      "label": "(Optional) Bestellnummer",
+      "placeholder": "Bestellnummer"
+    },
+    "radios": {
+      "isClient": {
+        "groupLabel": "Sind Sie bereits Kunde?",
+        "first": "Ja",
+        "second": "Nein"
+      },
+      "reason": {
+        "groupLabel": "Was ist der Grund für Ihre Anfrage?",
+        "first": "Ich habe eine Frage.",
+        "second": "Ich habe eine Beschwerde.",
+        "third": "Ich möchte eine Rückerstattung.",
+        "fourth": "Ich benötige einen größeren Tarif.",
+        "fifth": "Ich möchte kündigen."
+      }
+    },
+    "message": {
+      "title": "Ihre Nachricht:",
+      "placeholder": "Ihre Nachricht:"
+    },
+    "button": "Senden"
+  },
+  "legal": {
+    "notice": "Czechclouds. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "Allgemeine Geschäftsbedingungen"
+  },
+  "navbar": {
+    "home": "Startseite",
+    "order": "Bestellung",
+    "contact": "Kontakt"
+  }
+}

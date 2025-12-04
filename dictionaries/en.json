@@ -1,0 +1,203 @@
+{
+  "hero": {
+    "title": "Your Cloud, Your Rules.",
+    "subtitle": "Secure, scalable, and fully managed Nextcloud hosting. Take back control of your data.",
+    "plans": "View Plans",
+    "sales": "Contact Sales"
+  },
+  "plan": {
+    "title": "Our Sever Plans",
+    "subtitle": "Choose the plan that's right for you.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save": "(Save up to 17%)",
+    "moreTitle": "Do you need even more users?",
+    "moreText": "Contact us and we'll figure it out."
+  },
+  "security": {
+    "title": "Your Data, Safe and Private",
+    "subtitle": "Your privacy is our top priority. Our infrastructure is designed to keep your data secure.",
+    "firstTitle": "End-to-End Encryption",
+    "first": "With Nextcloud, you can encrypt your data directly on your device, so no one else has access to it.",
+    "secondTitle": "Data Sovereignty",
+    "second": "Your data is stored within the EU in certified data centers. You have full control over where your files are located.",
+    "thirdTitle": "Server Security",
+    "third": "We implement the latest security standards, including firewalls, DDoS protection, and regular security audits."
+  },
+  "about": {
+    "pill": "Collaboration Platform",
+    "title": "What is Nextcloud?",
+    "firstP": "Nextcloud is an open-source file hosting and collaboration platform that gives you full control over your data. It's like your own private Google Drive or Dropbox, but with much more features.",
+    "secondP": "Sync files, manage calendars, make video calls, and edit documents in real time—all on a single, secure platform."
+  },
+  "performance": {
+    "title": "Built for Lightning-Fast Performance",
+    "subtitle": "Our infrastructure is optimized for maximum performance, ensuring your Nextcloud runs smoothly and without delays.",
+    "firstTitle": "Blazing-Fast NVMe Storage",
+    "first": "All plans run on enterprise-grade NVMe SSDs, providing lightning-fast file loading and instant app responsiveness.",
+    "secondTitle": "Powerful CdPUs",
+    "second": "We use the latest generations of server-grade processors that handle demanding operations and multiple users with ease.",
+    "thirdTitle": "10Gbps Connectivity",
+    "third": "Our servers are connected to a high-speed network, ensuring fast uploads and downloads from anywhere in the world."
+  },
+  "features": {
+    "title": "Everything you need in one package",
+    "subtitle": "Every plan includes the full power of the Nextcloud Hub platform.",
+    "firstTitle": "Nextcloud Files",
+    "first": "Sync and share your documents, photos, and other files. Access them from any device, anytime.",
+    "secondTitle": "Nextcloud Talk",
+    "second": "Secure video calls, chat, and screen sharing directly in your cloud — no external apps needed.",
+    "thirdTitle": "Nextcloud Groupware",
+    "third": "Manage your calendars, contacts, and emails all in one place. Fully integrated for maximum productivity.",
+    "fourthTitle": "Online Office",
+    "fourth": "Edit text documents, spreadsheets, and presentations right in your browser. Fully compatible with Microsoft Office formats.",
+    "more": "and so much more..."
+  },
+  "faq": [
+    {
+      "title": "What is the main advantage of your service compared to large providers?",
+      "content": "Our main advantage is data sovereignty and a personal approach. Your data is stored in secure data centers within the EU, and you have full control over it. We're not a big corporation, so we can offer more flexibility and personalized support."
+    },
+    {
+      "title": "Can I try the service first?",
+      "content": "Yes, we offer a 14-day money-back guarantee on all our plans. If you're not satisfied with our service, we'll refund your payment — no questions asked."
+    },
+    {
+      "title": "How does data migration from another provider work?",
+      "content": "Our team will gladly help you migrate your data. In most standard cases, we can handle the migration for you. Just contact our support and we’ll arrange the details."
+    },
+    {
+      "title": "Is it possible to get a custom plan?",
+      "content": "Absolutely. If none of our standard plans fit your needs, we’ll be happy to prepare a custom offer tailored just for you. Simply fill out the request form on the 'Order' page."
+    }
+  ],
+  "cta": {
+    "title": "Are you ready to take control of your data?",
+    "subtitle": "Choose a plan, that fits you best, and start using it today. With our 14-day money-back guarantee, you won’t lose anything.",
+    "button": "Show plans"
+  },
+  "plans": [
+    {
+      "id": "basic",
+      "name": "Basic Cloud",
+      "title": "Starter",
+      "recommendation": "Up to 10 Users",
+      "priceMonthly": 20,
+      "priceYearly": 200,
+      "features": [
+        "Minimum of 250 GB SSD Storage",
+        "Fast Nextcloud Experience",
+        "Expandable Storage",
+        "Daily Backups",
+        "24 Hour Support"
+      ],
+      "nonFeatures": [
+        "Priority support",
+        "Domain Included in Price"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "pro",
+      "name": "Pro Cloud",
+      "title": "Most Popular",
+      "recommendation": "Up to 50 Users",
+      "priceMonthly": 30,
+      "priceYearly": 300,
+      "features": [
+        "Minimum of 500 GB SSD Storage",
+        "Fast Nextcloud Experience",
+        "Expandable Storage",
+        "Daily Backups",
+        "24 Hour Support",
+        "Priority support",
+        "Domain Included in Price"
+      ],
+      "nonFeatures": [],
+      "isPopular": true
+    }
+  ],
+  "order": {
+    "button": "Place Order",
+    "additionalStorageDesc": "1GB za €0.1",
+    "additionalStoragePrice": 0.1,
+    "additionalStorage": "Additional Storage (GB)",
+    "title": "Complete Your Order",
+    "subtitle": "Customize your plan and get started in minutes.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "month": "Month",
+    "year": "Year",
+    "total": "Total",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "tooltip": "Based on our estimation. Performance may be worse if you exceed this recommendation.",
+    "recommended": "Recommended",
+    "configure": "Configure Your Plan",
+    "userAddLabel": "Add User",
+    "userAdd": "Here you add your users and set their names. You can set how many you want.",
+    "userLimit": "Keep in mind that the plan you selected can only handle so much users. You can always create new users later.",
+    "error": "At least one user is required!",
+    "domain": "Domain",
+    "myOwn": "I have my own domain",
+    "needNewDomain": "I need a new domain",
+    "findNew": "Find your new domain",
+    "domainIncluded": "A new domain is included with the Pro plan. This is a placeholder for the VEDOS API integration.",
+    "check": "Check",
+    "monthlyAgree": {
+      "firstPart": "By clicking \"Place Order\", you are entering a subscription with a ",
+      "feeOf": "monthly fee of",
+      "secondPart": "You commit to the recurring payment, and payment instructions will be sent to your email."
+    },
+    "yearlyAgree": {
+      "firstPart": "By clicking \"Place Order\", you are entering a subscription with an ",
+      "feeOf": "annual fee of",
+      "secondPart": "You commit to the recurring payment, and payment instructions will be sent to your email."
+    }
+  },
+  "contact": {
+    "title": "Contact Form",
+    "fullName": {
+      "label": "Full Name",
+      "placeholder": "Full Name"
+    },
+    "email": {
+      "label": "E-Mail",
+      "placeholder": "E-Mail"
+    },
+    "orderNumber": {
+      "label": "(Optional) Order Number",
+      "placeholder": "Order Number"
+    },
+    "radios": {
+      "isClient": {
+        "groupLabel": "Are you a client?",
+        "first": "Yes",
+        "second": "No"
+      },
+      "reason": {
+        "groupLabel": "What is the purpose of your ticket?",
+        "first": "I have a question.",
+        "second": "I have a complain.",
+        "third": "I want to refund.",
+        "fourth": "I need a bigger plan.",
+        "fifth": "I want to cancel."
+      }
+    },
+    "message": {
+      "title": "Your Message:",
+      "placeholder": "Your Message:"
+    },
+    "button": "Send"
+  },
+  "legal": {
+    "notice": "Czechclouds. All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "navbar": {
+    "home": "Home",
+    "order": "Order",
+    "contact": "Contact"
+  }
+}

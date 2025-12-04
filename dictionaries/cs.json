@@ -1,0 +1,202 @@
+{
+  "hero": {
+    "title": "Váš cloud, vaše pravidla.",
+    "subtitle": "Bezpečný, škálovatelný a plně spravovaný Nextcloud hosting. Převezměte zpět kontrolu nad svými daty.",
+    "plans": "Zobrazit tarify",
+    "sales": "Kontaktovat prodej"
+  },
+  "plan": {
+    "title": "Naše serverové tarify",
+    "subtitle": "Vyberte si tarif, který je pro vás ten pravý.",
+    "monthly": "Měsíčně",
+    "yearly": "Ročně",
+    "save": "(Ušetřete až 17 %)",
+    "moreTitle": "Potřebujete ještě více uživatelů?",
+    "moreText": "Kontaktujte nás a my to vymyslíme."
+  },
+  "security": {
+    "title": "Vaše data, v bezpečí a soukromá",
+    "subtitle": "Vaše soukromí je naší nejvyšší prioritou. Naše infrastruktura je navržena tak, aby vaše data zůstala v bezpečí.",
+    "firstTitle": "End-to-End Šifrování",
+    "first": "S Nextcloudem můžete šifrovat svá data přímo na svém zařízení, takže k nim nikdo jiný nemá přístup.",
+    "secondTitle": "Datová suverenita",
+    "second": "Vaše data jsou uložena v rámci EU v certifikovaných datových centrech. Máte plnou kontrolu nad tím, kde se vaše soubory nacházejí.",
+    "thirdTitle": "Zabezpečení serveru",
+    "third": "Implementujeme nejnovější bezpečnostní standardy, včetně firewallů, DDoS ochrany a pravidelných bezpečnostních auditů."
+  },
+  "about": {
+    "pill": "Platforma pro spolupráci",
+    "title": "Co je Nextcloud?",
+    "firstP": "Nextcloud je open-source platforma pro hostování souborů a spolupráci, která vám dává plnou kontrolu nad vašimi daty. Je to jako váš vlastní soukromý Google Drive nebo Dropbox, ale s mnohem více funkcemi.",
+    "secondP": "Synchronizujte soubory, spravujte kalendáře, provádějte videohovory a upravujte dokumenty v reálném čase — to vše na jediné, zabezpečené platformě."
+  },
+  "performance": {
+    "title": "Vytvořeno pro bleskurychlý výkon",
+    "subtitle": "Naše infrastruktura je optimalizována pro maximální výkon, což zajišťuje, že váš Nextcloud běží hladce a bez zpoždění.",
+    "firstTitle": "Extrémně rychlé NVMe úložiště",
+    "first": "Všechny tarify běží na podnikových NVMe SSD discích, které poskytují bleskurychlé načítání souborů a okamžitou odezvu aplikací.",
+    "secondTitle": "Výkonné CPU",
+    "second": "Používáme nejnovější generace serverových procesorů, které snadno zvládnou náročné operace a více uživatelů.",
+    "thirdTitle": "10Gbps konektivita",
+    "third": "Naše servery jsou připojeny k vysokorychlostní síti, což zajišťuje rychlé nahrávání a stahování odkudkoli na světě."
+  },
+  "features": {
+    "title": "Vše, co potřebujete, v jednom balíčku",
+    "subtitle": "Každý tarif zahrnuje plný výkon platformy Nextcloud Hub.",
+    "firstTitle": "Nextcloud Soubory",
+    "first": "Synchronizujte a sdílejte své dokumenty, fotografie a další soubory. Přistupujte k nim z jakéhokoli zařízení, kdykoli.",
+    "secondTitle": "Nextcloud Talk",
+    "second": "Zabezpečené videohovory, chat a sdílení obrazovky přímo ve vašem cloudu — bez potřeby externích aplikací.",
+    "thirdTitle": "Nextcloud Groupware",
+    "third": "Spravujte své kalendáře, kontakty a e-maily na jednom místě. Plně integrováno pro maximální produktivitu.",
+    "fourthTitle": "Online Kancelář",
+    "fourth": "Upravujte textové dokumenty, tabulky a prezentace přímo ve vašem prohlížeči. Plně kompatibilní s formáty Microsoft Office.",
+    "more": "a mnohem víc..."
+  },
+  "faq": [
+    {
+      "title": "Jaká je hlavní výhoda vaší služby oproti velkým poskytovatelům?",
+      "content": "Naší hlavní výhodou je datová suverenita a osobní přístup. Vaše data jsou uložena v bezpečných datových centrech v rámci EU a máte nad nimi plnou kontrolu. Nejsme velká korporace, takže můžeme nabídnout větší flexibilitu a personalizovanou podporu."
+    },
+    {
+      "title": "Mohu službu nejprve vyzkoušet?",
+      "content": "Ano, na všechny naše tarify nabízíme 14denní záruku vrácení peněz. Pokud nebudete s naší službou spokojeni, vrátíme vám platbu – bez zbytečných otázek."
+    },
+    {
+      "title": "Jak probíhá migrace dat od jiného poskytovatele?",
+      "content": "Náš tým vám s migrací dat rád pomůže. Ve většině standardních případů to zvládneme za vás. Stačí kontaktovat naši podporu a domluvíme detaily."
+    },
+    {
+      "title": "Je možné získat tarif na míru?",
+      "content": "Rozhodně. Pokud žádný z našich standardních tarifů nevyhovuje vašim potřebám, rádi vám připravíme nabídku na míru. Jednoduše vyplňte poptávkový formulář na stránce 'Objednat'."
+    }
+  ],
+  "cta": {
+    "title": "Jste připraveni převzít kontrolu nad svými daty?",
+    "subtitle": "Vyberte si tarif, který vám nejlépe vyhovuje, a začněte jej používat ještě dnes. S naší 14denní zárukou vrácení peněz nic neztratíte.",
+    "button": "Zobrazit tarify"
+  },
+  "plans": [
+    {
+      "id": "basic",
+      "name": "Základní Cloud",
+      "title": "Startovní",
+      "recommendation": "Až 10 uživatelů",
+      "priceMonthly": 20,
+      "priceYearly": 200,
+      "features": [
+        "Minimálně 250 GB SSD úložiště",
+        "Rychlé prostředí Nextcloud",
+        "Rozšiřitelné úložiště",
+        "Denní zálohy",
+        "24hodinová podpora"
+      ],
+      "nonFeatures": [
+        "Prioritní podpora",
+        "Doména zahrnuta v ceně"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "pro",
+      "name": "Pro Cloud",
+      "title": "Nejoblíbenější",
+      "recommendation": "Až 50 uživatelů",
+      "priceMonthly": 30,
+      "priceYearly": 300,
+      "features": [
+        "Minimálně 500 GB SSD úložiště",
+        "Rychlé prostředí Nextcloud",
+        "Rozšiřitelné úložiště",
+        "Denní zálohy",
+        "24hodinová podpora",
+        "Prioritní podpora",
+        "Doména zahrnuta v ceně"
+      ],
+      "nonFeatures": [],
+      "isPopular": true
+    }
+  ],
+  "order": {
+    "button": "Zaslat Objednávku",
+    "additionalStorageDesc": "1GB za €0.1",
+    "additionalStoragePrice": 0.1,
+    "additionalStorage": "Místo na a disku navíc (GB)",
+    "title": "Dokončete Objednávku",
+    "subtitle": "Přizpůsobte si svůj plán a začněte během pár minut.",
+    "monthly": "Měsíčně",
+    "yearly": "Ročně",
+    "month": "Měsíc",
+    "year": "Rok",
+    "total": "Celkem",
+    "fullName": "Celé Jméno",
+    "email": "Emalová adresa",
+    "tooltip": "Na základě našeho odhadu. Výkon může být horší, pokud překročíte toto doporučení.",
+    "recommended": "Doporučeno",
+    "configure": "Konfigurujte Svůj Plán",
+    "userAdd": "Zde přidáváte své uživatele a nastavujete jejich jména. Můžete nastavit, kolik jich chcete.",
+    "userLimit": "Mějte na paměti, že vybraný plán zvládne jen omezený počet uživatelů. Vždy můžete nové uživatele přidat později.",
+    "error": "Je vyžadován alespoň jeden uživatel!",
+    "domain": "Doména",
+    "myOwn": "Mám svoji vlastní doménu,",
+    "needNewDomain": "Potřebuji novou doménu",
+    "findNew": "Najít novou doménu",
+    "domainIncluded": "Nová doména je zahrnuta v plánu Pro. Toto je placeholder pro integraci s VEDOS API.",
+    "check": "Zkontrolovat",
+    "monthlyAgree": {
+      "firstPart": "Kliknutím na \"Odeslat Objednávku\" vstupujete do předplatného s ",
+      "feeOf": "měsíčním poplatkem",
+      "secondPart": "Zavazujete se k opakované platbě a platební instrukce vám budou zaslány na email."
+    },
+    "yearlyAgree": {
+      "firstPart": "Kliknutím na \"Odeslat Objednávku\" vstupujete do předplatného s ",
+      "feeOf": "ročním poplatkem",
+      "secondPart": "Zavazujete se k opakované platbě a platební instrukce vám budou zaslány na email."
+    }
+  },
+  "contact": {
+    "title": "Kontaktní formulář",
+    "fullName": {
+      "label": "Celé jméno",
+      "placeholder": "Celé jméno"
+    },
+    "email": {
+      "label": "E-mail",
+      "placeholder": "E-mail"
+    },
+    "orderNumber": {
+      "label": "(Volitelné) Číslo objednávky",
+      "placeholder": "Číslo objednávky"
+    },
+    "radios": {
+      "isClient": {
+        "groupLabel": "Jste zákazník?",
+        "first": "Ano",
+        "second": "Ne"
+      },
+      "reason": {
+        "groupLabel": "Jaký je účel vašeho dotazu?",
+        "first": "Mám dotaz.",
+        "second": "Mám stížnost.",
+        "third": "Chci vrátit peníze.",
+        "fourth": "Potřebuji větší tarif.",
+        "fifth": "Chci zrušit službu."
+      }
+    },
+    "message": {
+      "title": "Vaše zpráva:",
+      "placeholder": "Vaše zpráva:"
+    },
+    "button": "Odeslat"
+  },
+  "legal": {
+    "notice": "Czechclouds. All Rights Reserved.",
+    "privacy": "Ochrana osobnich údajů",
+    "terms": "Obchodní podmínky"
+  },
+  "navbar": {
+    "home": "Domů",
+    "order": "Objednat",
+    "contact": "Kontakt"
+  }
+}

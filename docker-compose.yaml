@@ -1,0 +1,32 @@
+services:
+  website:
+    depends_on:
+      - db
+    container_name: website
+    image: website:latest
+    networks:
+#      - web
+      - website_network
+    restart: always
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env.local
+  db:
+    #env_file: ".env"
+    env_file: ".env.local" #Only for local testing, comment when in prod
+    container_name: website_db
+    image: postgres:15
+    networks:
+      - website_network
+    ports:
+      - "5432:5432" #Only for local testing, comment when in prod
+    environment:
+      POSTGRES_DB: app
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+
+networks:
+ # web:
+  #  external: true
+  website_network:
